@@ -1,4 +1,4 @@
-package eum;
+package org.example.eum;
 
 public enum FlightCrewJob {
 

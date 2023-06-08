@@ -1,4 +1,4 @@
-package annotations;
+package org.example.annotations;
 
 public class MyWorker {
     void doSomeWork() {
